@@ -46,6 +46,6 @@ img {
   }
   img:nth-of-type(6) {
     grid-column: 3/3;
-    grid-row: 1/1;
+    grid-row: 2/span 2;
   }
 }/*# sourceMappingURL=main.css.map */
